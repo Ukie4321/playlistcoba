@@ -6,6 +6,11 @@
 
 
 #EXTM3U
+
+
+#EXTINF:-1 group-title="Film Dubbing" tvg-logo="https://raw.githubusercontent.com/Ukie4321/iptv-posterku/main/poster/film_lawas/telegram.jpg",Telegram 
+https://ukie4321.github.io/Telegrammrzyb/telegram.html
+
 #EXTINF:-1 tvg-id="1" tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/Indosiar.webp" group-title="Channel Lokal",INDOSIAR 
 https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
