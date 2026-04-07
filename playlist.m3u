@@ -22,7 +22,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/mnctv.webp" group-title="Channel Lokal",MNC TV 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/b1/3e/0d/b13e0d12732ca2857d15ae3f1cdab261.jpg" group-title="Channel Lokal",MNC TV 
 #https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ukie4321/Postertv/8c090eda8e4c48000e49f2324d9cebaa0f0c268e/mnctv.webp" group-title="Channel Lokal",MNC TV 
